@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Chúc honey của anh có một ngày 20/10 tràn ngập niềm vui và những nụ cười nhé 💗💗💗",
+    titleWeb: "Honey của anh có một ngày 20/10 thật vui vẻ nhé 💗💗💗",
     introTitle: 'Ngô Trúc Phương',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
